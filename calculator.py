@@ -2,7 +2,6 @@ import tkinter
 from tkinter import *
 
 window = tkinter.Tk()
-# window.geometry('312x324')
 window.title('Calculator')
 window.resizable(0, 0)
 
